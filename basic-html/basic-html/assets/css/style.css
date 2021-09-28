@@ -1,0 +1,22 @@
+/* Estilos da página index */
+
+* {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+
+body {
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+
+.container1, .container2 {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/* Estilo da página de contato */

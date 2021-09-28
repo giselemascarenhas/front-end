@@ -1,0 +1,10 @@
+#img-bg {
+    background-image: url('https://super.abril.com.br/wp-content/uploads/2017/03/preto-no-branco-a-explicac3a7c3a3o-cientc3adfica-para-as-cores-do-panda.png?w=1024');
+    
+    min-height: 695px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh
+}

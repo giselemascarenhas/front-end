@@ -1,0 +1,10 @@
+#img-bg {
+    background-image: url('https://images6.alphacoders.com/101/thumb-1920-1017260.jpg');
+    
+    min-height: 695px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh
+}
